@@ -1,0 +1,19 @@
+C:\Users\23105\source\repos\Lista 2\ex6 - list2\ex6 - list2\bin\Debug\net5.0-windows\ex6 - list2.exe
+C:\Users\23105\source\repos\Lista 2\ex6 - list2\ex6 - list2\bin\Debug\net5.0-windows\ex6 - list2.deps.json
+C:\Users\23105\source\repos\Lista 2\ex6 - list2\ex6 - list2\bin\Debug\net5.0-windows\ex6 - list2.runtimeconfig.json
+C:\Users\23105\source\repos\Lista 2\ex6 - list2\ex6 - list2\bin\Debug\net5.0-windows\ex6 - list2.runtimeconfig.dev.json
+C:\Users\23105\source\repos\Lista 2\ex6 - list2\ex6 - list2\bin\Debug\net5.0-windows\ex6 - list2.dll
+C:\Users\23105\source\repos\Lista 2\ex6 - list2\ex6 - list2\bin\Debug\net5.0-windows\ref\ex6 - list2.dll
+C:\Users\23105\source\repos\Lista 2\ex6 - list2\ex6 - list2\bin\Debug\net5.0-windows\ex6 - list2.pdb
+C:\Users\23105\source\repos\Lista 2\ex6 - list2\ex6 - list2\obj\Debug\net5.0-windows\ex6 - list2.csprojAssemblyReference.cache
+C:\Users\23105\source\repos\Lista 2\ex6 - list2\ex6 - list2\obj\Debug\net5.0-windows\ex6___list2.Form1.resources
+C:\Users\23105\source\repos\Lista 2\ex6 - list2\ex6 - list2\obj\Debug\net5.0-windows\ex6 - list2.csproj.GenerateResource.cache
+C:\Users\23105\source\repos\Lista 2\ex6 - list2\ex6 - list2\obj\Debug\net5.0-windows\ex6 - list2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\23105\source\repos\Lista 2\ex6 - list2\ex6 - list2\obj\Debug\net5.0-windows\ex6 - list2.AssemblyInfoInputs.cache
+C:\Users\23105\source\repos\Lista 2\ex6 - list2\ex6 - list2\obj\Debug\net5.0-windows\ex6 - list2.AssemblyInfo.cs
+C:\Users\23105\source\repos\Lista 2\ex6 - list2\ex6 - list2\obj\Debug\net5.0-windows\ex6 - list2.csproj.CoreCompileInputs.cache
+C:\Users\23105\source\repos\Lista 2\ex6 - list2\ex6 - list2\obj\Debug\net5.0-windows\ex6 - list2.dll
+C:\Users\23105\source\repos\Lista 2\ex6 - list2\ex6 - list2\obj\Debug\net5.0-windows\ref\ex6 - list2.dll
+C:\Users\23105\source\repos\Lista 2\ex6 - list2\ex6 - list2\obj\Debug\net5.0-windows\ex6 - list2.pdb
+C:\Users\23105\source\repos\Lista 2\ex6 - list2\ex6 - list2\obj\Debug\net5.0-windows\ex6 - list2.genruntimeconfig.cache
+C:\Users\23105\source\repos\Lista 2\ex6 - list2\ex6 - list2\obj\Debug\net5.0-windows\ex6___list2.Properties.Resources.resources
