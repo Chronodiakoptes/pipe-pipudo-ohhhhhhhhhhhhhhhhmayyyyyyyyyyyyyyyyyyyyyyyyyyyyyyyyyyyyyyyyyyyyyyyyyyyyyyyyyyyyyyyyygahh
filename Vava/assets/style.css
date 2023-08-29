@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+@font-face {
+    font-family: Val;
+    src: url(/Vava/assets/font/Valorant\ Font.ttf);
+} 
+.sinopse{
+    font-family: Val;
+}  
+.P1{
+    font-family: 'Ubuntu';
+    color: black;
+}
+.sinopse{
+    text-align: center;
+}

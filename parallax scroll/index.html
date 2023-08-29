@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Parallax Scroll</title>
+    <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+    <header>
+        <a href="#" class="Logo">Logo</a>
+        <ul>
+            <li><a href="#" class="active">Home</a></li>
+            <li><a href="#">Sobre</a></li>
+            <li><a href="#">Trabalhos</a></li>
+            <li><a href="#">Contato</a></li>
+        </ul>
+    </header>   
+    <section>
+        <img src="assets/img/stars.png" id='stars'>
+        <img src="assets/img/moon.png" id='moon'>
+        <h2 id='text'>Deixa o Like</h2>
+        <a href="#sec" id='btn'>Inscreva-se</a>
+        <img src="assets/img/mountains_behind.png" id='mountains_behind'>
+        <img src="assets/img/mountains_front.png" id='mountains_front'>
+    </section>
+    <div class="sec" id="sec">
+        <h2>Parallax Scroll Efeito</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste quo at sed, placeat corrupti nulla, esse modi, non aut odit dicta accusantium vitae deserunt! Consectetur quidem eius animi esse laborum? Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore, adipisci architecto ullam hic aspernatur facere ducimus excepturi nisi recusandae quos corporis quidem neque deleniti perferendis quam delectus veritatis facilis voluptate! Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi blanditiis eos ducimus facilis, ad nesciunt necessitatibus fugiat quibusdam, esse iure qui libero, sapiente quis eveniet pariatur fugit nam nihil possimus!<br><br>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste quo at sed, placeat corrupti nulla, esse modi, non aut odit dicta accusantium vitae deserunt! Consectetur quidem eius animi esse laborum? Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore, adipisci architecto ullam hic aspernatur facere ducimus excepturi nisi recusandae quos corporis quidem neque deleniti perferendis quam delectus veritatis facilis voluptate! Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi blanditiis eos ducimus facilis, ad nesciunt necessitatibus fugiat quibusdam, esse iure qui libero, sapiente quis eveniet pariatur fugit nam nihil possimus!<br><br>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste quo at sed, placeat corrupti nulla, esse modi, non aut odit dicta accusantium vitae deserunt! Consectetur quidem eius animi esse laborum? Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore, adipisci architecto ullam hic aspernatur facere ducimus excepturi nisi recusandae quos corporis quidem neque deleniti perferendis quam delectus veritatis facilis voluptate! Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi blanditiis eos ducimus facilis, ad nesciunt necessitatibus fugiat quibusdam, esse iure qui libero, sapiente quis eveniet pariatur fugit nam nihil possimus!</p>
+    </div>
+    <script>
+        let stars = document.getElementById('stars')
+        let moon = document.getElementById('moon')
+        let mountains_behind = document.getElementById('mountains_behind')
+        let mountains_front = document.getElementById('mountains_front')
+        let text = document.getElementById('text')
+        let btn = document.getElementById('btn')
+        
+        window.addEventListener('scroll',function(){
+            let value = window.scrollY;
+            stars.style.left = value*0.25 + 'px';
+            moon.style.top = value*1.05 + 'px';
+            mountains_behind.style.left = value*0.5 + 'px';
+            mountains_front.style.left = value*0 + 'px';
+            text.style.marginRight = value*4 + '';  
+        })
+    </script>
+</body>
+</html>

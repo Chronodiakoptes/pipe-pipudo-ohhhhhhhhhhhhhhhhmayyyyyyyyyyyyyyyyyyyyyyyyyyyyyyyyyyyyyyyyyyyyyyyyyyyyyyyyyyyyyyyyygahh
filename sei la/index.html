@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PJ | Vo la saber </title>
+    <link rel="stylesheet" type="text/css" href="assets/Styles.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+</head>
+<body>
+<div class="container">
+    <div class="borda text-center">
+        <h2>Cadastro de Alunos | PJ</h2>
+        <h3>Dados Pessoais</h3>
+    </div>
+    <div class="borda">
+        <center><h3>Dados pessoais</h3></center>
+        <div class="row">
+            <div class="col-sm-5 p-2">
+                 <div class="form-group">
+                    <label for="nome">Nome</label>
+                    <input type="text" class="form-control" id="nome" name="nome" placeholder="Informe seu nome" required>  
+                </div>
+            </div>
+            <div class="col-sm-5 p-2">
+                <div class="form-group">
+                    <label for="snome">Sobrenome</label>       
+                    <input type="text" class="form-control" id="snome" nome="snome" placeholder="Informe seu Sobrenome" required>
+                </div>
+            </div>
+            <div class="col-sm-2 p-2">
+                <div class="form-group">
+                    <label for="idade">Idade</label>
+                    <input type="number" id="idade" name="idade" class="form-control"/>
+                </div>
+            </div>
+        </div>
+       
+        <div class="row">
+            <div class="col-sm-5 p-2">
+                <div class="form-group">
+                <label for="dtnasc">Data de Nascimento</label>
+                <input type="date" id="dtnasc" class="form-control" required/>
+            </div>
+            </div>
+            <div class="col-sm-5 p-2">
+                <div class="form-group">
+                <label for="CPF">CPF</label>
+                <input type="number" id="cpf" name="cpf" class="form-control" maxlength="11" placeholder="000.000.000-00" required>
+                </div> 
+            </div>
+            <div class="col-sm-2 p-2">
+                <div class="form-group">
+                <label for="sexo">Sexo</label><br>
+                <label for="feminino">Feminino</label>
+                <input type="radio" id="feminino" name="feminino" checked><br>
+                <label for="Masculino">Masculino</label>
+                <input type="radio" id="masculino" name="masculino">
+            </div>
+            </div>
+        </div>
+    </div> 
+    <!-------endereco------->
+    <div class="borda">
+        <center><h3>Endereço</h3></center>
+        <div class="row">
+            <div class="col-sm-5 p-2">
+                <div class="form-group">
+                    <label for="nome">Rua</label>
+                    <input type="text" class="form-control" id="rua" name="rua" required>  
+                </div>
+            </div>
+                <div class="col-sm-5 p-2">
+                    <div class="form-group">
+                        <label for="nome">N°</label>
+                        <input type="text" class="form-control" id="numero" name="Numero" required>  
+                    </div>
+                </div>
+                    <div class="col-sm-2 p-2">
+                        <div class="form-group">
+                        <label for="nome">Complemento</label>
+                        <input type="text" class="form-control" id="complemento" name="Complemento" required>  
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-5 p-2">
+                <div class="form-group">
+                    <label for="nome">Bairro</label>
+                    <input type="text" class="form-control" id="bairro" name="bairro" required>  
+                </div>
+            </div>
+            <div class="col-sm-5 p-2">
+                <div class="form-group">
+                    <label for="nome">Cidade</label>
+                    <input type="text" class="form-control" id="cidade" name="cidade" required>  
+                </div>
+            </div>
+            <div class="col-sm-2 p-2">
+                <div class="form-group">
+                    <label for="nome">UF</label>
+                    <input type="text" class="form-control" id="UF" name="UF" required>  
+                </div>
+            </div>
+        </div>
+            <div class="row">
+                <div class="col-sm-5 p-2">
+                    <div class="form-group">
+                        <label for="nome">País</label>
+                        <input type="text" class="form-control" id="país" name="país" required>  
+                    </div>
+                </div>
+                <div class="col-sm-5 p-2">
+                    <div class="form-group">
+                    <label for="nome">CEP</label>
+                    <input type="number" id="cep" name="cep" class="form-control" placeholder="00.000-00" required>
+                    </div> 
+            </div>
+    </div>
+    <!------------->
+    <div class="borda">
+        <center><h3>Outros</h3></center>
+        <div class="row">
+            <div class="col-sm-12 p-2">
+                <div class="form-control">
+                    <label for="msg">Escreva uma breve descrição sobre você:</label>
+                    <textarea id="msg" class="form-control"></textarea>
+                </div>
+            </div>
+            <div class="col-sm-12 p-2">
+                <div class="form-control">
+                    <label for="file">Selecione uma foto:</label>
+                    <input type="file" id="file" class="form-control"></input>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <!------>
+    <center>
+        <h4>Aceitar os termos da ETEC | PJ</h4>
+        <div class="select">
+            <label for="sim">Sim</label>
+            <input type="checkbox" id="sim" name="sim">
+            <label for="nao">Nao</label>
+        </div>
+    </center>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js" integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.min.js" integrity="sha384-cuYeSxntonz0PPNlHhBs68uyIAVpIIOZZ5JqeqvYYIcEL727kskC66kF92t6Xl2V" crossorigin="anonymous"></script>
+</body>
+</html>

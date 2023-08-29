@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@300;400&family=Delicious+Handrawn&family=Mogra&family=Montserrat:wght@100&family=Poppins:wght@200&family=Roboto:wght@300&family=Ubuntu:wght@300&family=Ysabeau+Infant:wght@300&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Comic Neue', cursive;
+}
+
+body{
+    background-image: url(/assets/img/background.jpg);
+    background-size: cover;
+}
+
+h1{
+    font-size: 15vh;
+    color: gold;
+}
+
+.container{
+    padding-left: 300px;
+    background-color: black;
+}
+
