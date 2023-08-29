@@ -1,0 +1,16 @@
+C:\Users\23105\source\repos\Vet3\Vet3\bin\Debug\net5.0\Vet3.exe
+C:\Users\23105\source\repos\Vet3\Vet3\bin\Debug\net5.0\Vet3.deps.json
+C:\Users\23105\source\repos\Vet3\Vet3\bin\Debug\net5.0\Vet3.runtimeconfig.json
+C:\Users\23105\source\repos\Vet3\Vet3\bin\Debug\net5.0\Vet3.runtimeconfig.dev.json
+C:\Users\23105\source\repos\Vet3\Vet3\bin\Debug\net5.0\Vet3.dll
+C:\Users\23105\source\repos\Vet3\Vet3\bin\Debug\net5.0\ref\Vet3.dll
+C:\Users\23105\source\repos\Vet3\Vet3\bin\Debug\net5.0\Vet3.pdb
+C:\Users\23105\source\repos\Vet3\Vet3\obj\Debug\net5.0\Vet3.csprojAssemblyReference.cache
+C:\Users\23105\source\repos\Vet3\Vet3\obj\Debug\net5.0\Vet3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\23105\source\repos\Vet3\Vet3\obj\Debug\net5.0\Vet3.AssemblyInfoInputs.cache
+C:\Users\23105\source\repos\Vet3\Vet3\obj\Debug\net5.0\Vet3.AssemblyInfo.cs
+C:\Users\23105\source\repos\Vet3\Vet3\obj\Debug\net5.0\Vet3.csproj.CoreCompileInputs.cache
+C:\Users\23105\source\repos\Vet3\Vet3\obj\Debug\net5.0\Vet3.dll
+C:\Users\23105\source\repos\Vet3\Vet3\obj\Debug\net5.0\ref\Vet3.dll
+C:\Users\23105\source\repos\Vet3\Vet3\obj\Debug\net5.0\Vet3.pdb
+C:\Users\23105\source\repos\Vet3\Vet3\obj\Debug\net5.0\Vet3.genruntimeconfig.cache
