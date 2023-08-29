@@ -1,0 +1,16 @@
+C:\Users\23105\source\repos\laco2\laco2\bin\Debug\net5.0\laco2.exe
+C:\Users\23105\source\repos\laco2\laco2\bin\Debug\net5.0\laco2.deps.json
+C:\Users\23105\source\repos\laco2\laco2\bin\Debug\net5.0\laco2.runtimeconfig.json
+C:\Users\23105\source\repos\laco2\laco2\bin\Debug\net5.0\laco2.runtimeconfig.dev.json
+C:\Users\23105\source\repos\laco2\laco2\bin\Debug\net5.0\laco2.dll
+C:\Users\23105\source\repos\laco2\laco2\bin\Debug\net5.0\ref\laco2.dll
+C:\Users\23105\source\repos\laco2\laco2\bin\Debug\net5.0\laco2.pdb
+C:\Users\23105\source\repos\laco2\laco2\obj\Debug\net5.0\laco2.csprojAssemblyReference.cache
+C:\Users\23105\source\repos\laco2\laco2\obj\Debug\net5.0\laco2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\23105\source\repos\laco2\laco2\obj\Debug\net5.0\laco2.AssemblyInfoInputs.cache
+C:\Users\23105\source\repos\laco2\laco2\obj\Debug\net5.0\laco2.AssemblyInfo.cs
+C:\Users\23105\source\repos\laco2\laco2\obj\Debug\net5.0\laco2.csproj.CoreCompileInputs.cache
+C:\Users\23105\source\repos\laco2\laco2\obj\Debug\net5.0\laco2.dll
+C:\Users\23105\source\repos\laco2\laco2\obj\Debug\net5.0\ref\laco2.dll
+C:\Users\23105\source\repos\laco2\laco2\obj\Debug\net5.0\laco2.pdb
+C:\Users\23105\source\repos\laco2\laco2\obj\Debug\net5.0\laco2.genruntimeconfig.cache

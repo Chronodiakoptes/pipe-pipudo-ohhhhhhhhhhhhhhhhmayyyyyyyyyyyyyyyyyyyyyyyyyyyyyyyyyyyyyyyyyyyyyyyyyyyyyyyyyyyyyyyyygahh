@@ -1,0 +1,16 @@
+C:\Users\23105\source\repos\vet19\vet19\bin\Debug\net5.0\vet19.exe
+C:\Users\23105\source\repos\vet19\vet19\bin\Debug\net5.0\vet19.deps.json
+C:\Users\23105\source\repos\vet19\vet19\bin\Debug\net5.0\vet19.runtimeconfig.json
+C:\Users\23105\source\repos\vet19\vet19\bin\Debug\net5.0\vet19.runtimeconfig.dev.json
+C:\Users\23105\source\repos\vet19\vet19\bin\Debug\net5.0\vet19.dll
+C:\Users\23105\source\repos\vet19\vet19\bin\Debug\net5.0\ref\vet19.dll
+C:\Users\23105\source\repos\vet19\vet19\bin\Debug\net5.0\vet19.pdb
+C:\Users\23105\source\repos\vet19\vet19\obj\Debug\net5.0\vet19.csprojAssemblyReference.cache
+C:\Users\23105\source\repos\vet19\vet19\obj\Debug\net5.0\vet19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\23105\source\repos\vet19\vet19\obj\Debug\net5.0\vet19.AssemblyInfoInputs.cache
+C:\Users\23105\source\repos\vet19\vet19\obj\Debug\net5.0\vet19.AssemblyInfo.cs
+C:\Users\23105\source\repos\vet19\vet19\obj\Debug\net5.0\vet19.csproj.CoreCompileInputs.cache
+C:\Users\23105\source\repos\vet19\vet19\obj\Debug\net5.0\vet19.dll
+C:\Users\23105\source\repos\vet19\vet19\obj\Debug\net5.0\ref\vet19.dll
+C:\Users\23105\source\repos\vet19\vet19\obj\Debug\net5.0\vet19.pdb
+C:\Users\23105\source\repos\vet19\vet19\obj\Debug\net5.0\vet19.genruntimeconfig.cache
