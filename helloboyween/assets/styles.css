@@ -1,0 +1,13 @@
+@font-face {
+    font-family:Halloween;
+    src: url(/assets/fonts/October\ Crow.ttf) format('truetype');
+}
+body{
+    margin: 3px;
+    padding: 3px;
+}
+.hell{
+    font-family:Halloween;
+    color: purple;
+    font-size: 100px;
+}
